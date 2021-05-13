@@ -13,3 +13,6 @@
  - Typescript
  - TSX
  - APIs
+ - HTML
+ - CSS
+ - SCSS
